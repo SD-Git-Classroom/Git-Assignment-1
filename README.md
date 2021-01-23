@@ -4,7 +4,7 @@
 1. Download Git from https://git-scm.com/ 
 2. Start “Git Bash” (or "Git Shell") on Windows, or open a Terminal on Mac
 3. Configure username, email, and editor in git
-4. Fork repo https://github.com/cengique/bash_basics on Github
+4. Fork repo  on Github
 5. Clone your repo to your local computer in Git Bash
 6. Make changes: Create a folder with your name, add a Bash script that prints your name
 7. Add your file to git
