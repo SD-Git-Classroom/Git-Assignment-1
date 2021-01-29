@@ -38,7 +38,7 @@ All Git downloads can be found on https://git-scm.com/downloads
 
 ### Step 4: Fork my Github repo
 
-- Click on https://github.com/cengique/bash_basics 
+- Click on https://github.com/RahafB/bash_basics
 - Click “Fork” on top-right corner
 - This will make a copy of the project in your Github account
 
